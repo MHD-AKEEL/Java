@@ -9,10 +9,11 @@ byte num2=22;
 int total;
 
 num1++;
+num1++;
 ++num2;
 
 
 System.out.println("Total="+num1);
-
+System.out.println("Total="+num2);
     }
 }
