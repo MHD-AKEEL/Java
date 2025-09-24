@@ -4,12 +4,12 @@ public class BIT {
 	System.out.println("Welcome to Java");
 
 
-float num2=12.0f;
+float num2 = 12.0f;
 
 int num1=010;
 int num3=021;
 int num4=0b100;
-float num5=010;
+float num5=010f;
 
 int num6=0x10;
 
