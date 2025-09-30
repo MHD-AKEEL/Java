@@ -6,5 +6,7 @@ while(i<3)
 {
 	System.out.println("Hello");
 	i++;
+	
 }
+
 }}
