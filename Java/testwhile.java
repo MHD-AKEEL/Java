@@ -9,4 +9,14 @@ while(i<3)
 	
 }
 
+{
+	i++;
+	System.out.println("Hi");
+}
+
+{
+	System.out.println(i);
+	i++;
+}
+
 }}
