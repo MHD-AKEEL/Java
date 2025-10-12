@@ -3,6 +3,12 @@ public static void main (String args[]){
 
 float ar[] ={1, 2, 3, 4, 3.4f, 4.4f};
 	for(int i=0; i<6; i++)
-	System.out.print(ar[i]+" ");
+	System.out.println(ar[i]+" ");
+
+int[] num={10,20,30,45,55};
+System.out.println(num[1]);
+
+String[] name={"rizny", "alfi", "azar", "dinesh","kareem"};
+System.out.println(name[6]);
 
 }}
