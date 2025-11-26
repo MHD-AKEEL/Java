@@ -1,4 +1,4 @@
-
+// class (literally a blue print)
 class Car {
     String color;
     int maxSpeed;
@@ -8,9 +8,10 @@ class Car {
     }
 }
 
+
 public class Main {
     public static void main(String[] args) {
-        Car myCar = new Car();
+        Car myCar = new Car(); // create object
         myCar.color = "Red";
         myCar.maxSpeed = 200;
         myCar.displayInfo();
