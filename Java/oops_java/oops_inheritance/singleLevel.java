@@ -1,4 +1,4 @@
-// Single level inheritance
+// Single level inheritance (one parent & one child)
 
 class A {
 
