@@ -1,4 +1,4 @@
-
+// Default & zero argument
 class Demo {
 
     int a;
