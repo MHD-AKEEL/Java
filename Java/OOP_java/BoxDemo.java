@@ -2,6 +2,12 @@ class Box {
     double width, height, length;
 }
 
+class run {
+    int x =15;
+    void runFast(){
+        System.out.println("Marks");
+    }
+}
 public class BoxDemo {
     public static void main(String args[]) {
 
@@ -42,5 +48,9 @@ public class BoxDemo {
 
         Volume4 = my_box4.width * my_box4.height * my_box4.length;
         System.out.println("Volume4 is = " + Volume4);
+    
+        run r = new run();
+        System.out.println(r.x);
+        r.runFast();
     }
 }
