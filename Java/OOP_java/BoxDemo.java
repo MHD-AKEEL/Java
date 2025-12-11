@@ -15,6 +15,7 @@ public class BoxDemo {
         Box my_box2 = new Box();
         Box my_box3 = new Box();
         Box my_box4 = new Box();
+        Box my_box5 = new Box();
 
         my_box1.width = 10;
         my_box1.height = 10;
@@ -32,10 +33,15 @@ public class BoxDemo {
         my_box4.height = 5;
         my_box4.length = 5;
 
+        my_box5.width = 2;
+        my_box5.height = 3;
+        my_box5.length = 4;
+
         double volume1;
         double Volume2;
         double Volume3;
         double Volume4;
+        double Volume5;
 
         volume1 = my_box1.width * my_box1.height * my_box1.length;
         System.out.println("Volume is = " + volume1);
@@ -48,6 +54,9 @@ public class BoxDemo {
 
         Volume4 = my_box4.width * my_box4.height * my_box4.length;
         System.out.println("Volume4 is = " + Volume4);
+
+        Volume5 = my_box5.width * my_box5.height * my_box5.length;
+        System.out.println("Volume5 is = " + Volume5);
     
         run r = new run();
         System.out.println(r.x);
