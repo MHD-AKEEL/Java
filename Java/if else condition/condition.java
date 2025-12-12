@@ -2,7 +2,7 @@ public class condition{
 
 public static void main(String args[]){
 
-int marks=20;
+int marks=70;
 
 if(marks>=50)
 {

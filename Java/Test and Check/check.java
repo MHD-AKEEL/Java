@@ -11,3 +11,4 @@ default: result += 4;
 }
 System.out.println(result);
 }}
+
