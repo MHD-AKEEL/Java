@@ -2,7 +2,7 @@ public class condition2{
 
 public static void main(String args[]){
 
-char c='u';
+char c='c';
 
 switch(c)
 {
