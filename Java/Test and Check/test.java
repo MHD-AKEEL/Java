@@ -16,6 +16,7 @@ System.out.println(num1>8 || num2>1);
 
 System.out.println(num1>8 & num2>1);
 System.out.println(num1>8 | num2>1);
+System.out.println(num2>8 || num3>3);
 
 	System.out.println(c);
 	System.out.println(d);
