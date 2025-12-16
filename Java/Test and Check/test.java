@@ -21,7 +21,7 @@ System.out.println(num2>8 || num3>3);
 	System.out.println(c);
 	System.out.println(d);
 
-num3=4^3;
+
 System.out.println(num3);
 }
 
