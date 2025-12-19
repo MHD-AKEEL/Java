@@ -30,6 +30,7 @@ marks[2]=84;
 
 System.out.println(marks[1]);
 System.out.println(marks[5]);
+System.out.println(marks[3]);
 
 System.out.println(name[2]);
 System.out.println(name[0]);
