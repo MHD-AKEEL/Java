@@ -33,5 +33,6 @@ System.out.println(marks[5]);
 
 System.out.println(name[2]);
 System.out.println(name[0]);
+System.out.println(name[1]);
 
 }}
