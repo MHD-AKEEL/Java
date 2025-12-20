@@ -9,6 +9,6 @@ int[] num={10,20,30,45,55};
 System.out.println(num[1]);
 
 String[] name={"rizny", "alfi", "azar", "dinesh","kareem"};
-System.out.println(name[6]);
+System.out.println(name[1]);
 
 }}
