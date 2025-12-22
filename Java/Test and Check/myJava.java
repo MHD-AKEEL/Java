@@ -4,5 +4,6 @@ public class myJava {
         System.out.println("x="+x);
         System.out.println("y="+y);
         System.out.println("x+y="+(x+y));
+        System.out.println("x+y="+x+y);
     }
 }
