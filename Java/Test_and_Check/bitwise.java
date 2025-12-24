@@ -11,6 +11,11 @@ public class bitwise {
         System.out.println(num4); // output: 7
 
         num5 = 7 ^ 2; // bitwise XOR
-        System.out.println(num5);
+        System.out.println(num5); // output: 5
+
+        int x=3, y=2, z=7;
+        System.out.println("x<<2=" + (x<<2)); // left shift output: 12
+
+        System.out.println("z>>1=" + (z>>1)); // right shift output: 3
     }
 }
