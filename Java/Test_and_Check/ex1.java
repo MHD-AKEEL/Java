@@ -18,11 +18,11 @@ public class ex1 {
         boolean e = (a^b);
         boolean f = (b&a) | (c&d);
 
-        System.out.println("a = " + a);
-        System.out.println("b = " + b);
-        System.out.println("c = " + c);
-        System.out.println("d = " + d);
-        System.out.println("e = " + e);
-        System.out.println("f = " + f);
+        System.out.println("a = " + a); // true
+        System.out.println("b = " + b); // false
+        System.out.println("c = " + c); // true
+        System.out.println("d = " + d); // false
+        System.out.println("e = " + e); // true
+        System.out.println("f = " + f); // false
     }
 }
