@@ -10,5 +10,20 @@ public class ex1 {
         System.out.println(x<=4 || y>=1); // true - OR operator
         System.out.println(x>2 && y>=3); // false - AND operator
         System.out.println(!(i>4)); // false - NOT operator
+
+        boolean a = true;
+        boolean b = false;
+        boolean c = a | b;
+        boolean d = a & b;
+        boolean e = (a^b);
+        boolean f = (b&a) | (c&d);
+
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
+        System.out.println(e);
+        System.out.println(f);
+        ;
     }
 }
