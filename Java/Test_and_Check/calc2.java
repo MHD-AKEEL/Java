@@ -6,5 +6,6 @@ public class calc2 {
 
         System.out.println(num1>8 & num2>1); //false
         System.out.println(num1>8 | num2>1); //true
+        System.out.println(!(num3>5)); //false
     }
 }
