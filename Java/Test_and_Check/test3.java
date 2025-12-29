@@ -3,5 +3,7 @@ public class test3 {
         System.out.println("in first main()");
     }
 
-    
+    public static void main(int[] args) {
+        System.out.println("a");
+    }
 }
