@@ -9,6 +9,6 @@ case 7: result = 2;
 case 8: result = 5;
 default: result += 4;
 }
-System.out.println(result);
+System.out.println(result); // Expected output: 9
 }}
 
