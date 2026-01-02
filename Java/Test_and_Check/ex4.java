@@ -5,10 +5,10 @@ public class ex4 {
        String str = "100";
        char ch = 'B';
 
-         System.out.println(str + ch);
-         System.out.println(ch + value1);
-         System.out.println(num1 + ch);
-         System.out.println(str + num1);
+         System.out.println(str + ch); // String concatenation
+         System.out.println(ch + value1); // char to int (66) + float
+         System.out.println(num1 + ch); // int + char to int (66)
+         System.out.println(str + num1); // String concatenation
          
     }
 }
