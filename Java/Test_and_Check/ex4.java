@@ -7,6 +7,7 @@ public class ex4 {
 
          System.out.println(str + ch);
          System.out.println(ch + value1);
+         System.out.println(num1 + ch);
          
     }
 }
