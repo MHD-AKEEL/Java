@@ -7,8 +7,9 @@ public class ex4 {
 
          System.out.println(str + ch); // String concatenation
          System.out.println(ch + value1); // char to int (66) + float
-         System.out.println(num1 + ch); // int + char to int (66)
+         System.out.println(num1 + ch); // int + char to int (66) out
          System.out.println(str + num1); // String concatenation
          System.out.println(num1 > value1 * 5); // boolean comparison
+         
     }
 }
