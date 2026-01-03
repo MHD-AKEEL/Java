@@ -4,6 +4,7 @@ public class calc {
         int num2 = 0x10;
         System.out.println("num1=" + num1);
         System.out.println("num2=" + num2);
+        System.out.println("\n");
 
         System.out.println("java\n programmig\b language\n"); // new line and backspace
         System.out.println("my\nfirst\\javaprogram\n"); // new line and backslash
