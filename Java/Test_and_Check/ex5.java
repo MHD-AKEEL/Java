@@ -5,6 +5,6 @@ public class ex5 {
         System.out.println(value);
 
         char a = '\\';
-        System.out.println("C:" + a + "TC" + a + "BIN");
+        System.out.println("C:" + a + "TC" + a + "BIN");//print C:\TC\BIN
     }
 }
