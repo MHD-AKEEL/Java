@@ -4,7 +4,7 @@ public class ex6 {
         a= 3.0/0;
         b= 0.0/4.0;
         c= 0.0/0.0;
-        System.out.println(a);
+        System.out.println(a); // Infinity
         System.out.println(b);
         System.out.println(c);
     }
