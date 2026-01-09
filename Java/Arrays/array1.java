@@ -28,9 +28,9 @@ marks[0]=95;
 marks[1]=76;
 marks[2]=84;
 
-System.out.println(marks[1]);
-System.out.println(marks[5]);
-System.out.println(marks[3]);
+System.out.println(marks[1]); // 76
+System.out.println(marks[5]); //
+System.out.println(marks[3]); // 77
 
 System.out.println(name[2]);
 System.out.println(name[0]);
