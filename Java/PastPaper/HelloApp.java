@@ -5,7 +5,7 @@ class HelloApp {
         char ch = 'A';
         int count = 0;
         while (count < 5) {
-            System.out.print(ch);
+            System.out.print(ch); //ABCDE     current character
             ch += 2;
             count++;
         }
