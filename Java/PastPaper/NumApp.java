@@ -5,7 +5,7 @@ public class NumApp {
         
         val1 = 5; 
         val2 = 2;
-        val2 *= 3;
+        val2 *= 3; // val2 is now 6
         val3 = Integer.toString(val1); // output "5"
         val4 = Integer.toString(val2); // output "6"
         val5 = val3 + val4; 
