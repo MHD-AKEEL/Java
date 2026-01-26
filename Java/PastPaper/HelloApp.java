@@ -8,6 +8,7 @@ class HelloApp {
             System.out.print(ch); //ABCDE     current character
             ch += 2;
             count++;
+            System.out.println(ch);
         }
     }
 }
